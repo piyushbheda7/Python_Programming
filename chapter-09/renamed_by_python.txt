@@ -1,0 +1,6 @@
+this is the file which name will be changed to 'renamed_by_python.txt'
+this is done by following steps:
+
+1) first read the oldfile content and store into a variable
+2) and make a file which name is 'renamed_by_python' and paste it content in it 
+3) and third step is to delete the oldname file

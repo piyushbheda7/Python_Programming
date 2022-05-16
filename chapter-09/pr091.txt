@@ -1,0 +1,3 @@
+This is the file for check whether the two files are identicle or not
+It will return yes if the both files content is same else it return not 
+this is the example of program for the file input and output concept
